@@ -1,0 +1,232 @@
+<!DOCTYPE HTML>
+<!--
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		
+		<title>Requirements of app</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<style>
+		table, th, td {
+		  border: 1px solid black;
+		  border-collapse: collapse;
+		}
+		td {
+		  padding: 15px;
+		  text-align: left;
+		  vertical-align: middle;
+		}
+		th {
+		  padding: 15px;
+		  text-align: center;
+		  font-weight:bold;
+		  vertical-align: middle;
+		}
+		</style>
+		
+		
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+								<span class="logo"><a href="https://dbse-teaching.github.io/isee2019-CleverSwabian/"><img src="images\TheCleverSwabian.svg" alt="" width="200px" height="200px"/></a></span>
+						<h1>Basic Prototype</h1>
+						<p>The Clever Swabian</p>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						
+						<!-- Content -->
+							<section id="content" class="main">
+								<p class="meta">14 May 2019</p>
+
+								<div class="post">
+								  <!-- <p><img src="https://dbse-teaching.github.io/isee2018-Actilog//images/Logo.jpg" alt="Logo" title="Actilog" height="20%" width="100%" /></p> -->
+								
+									<p>Welcome to the blog of team <b>The Clever Swabian</b>! We are a team of four students who are excited to show you the progress of our project. We are currently building our first Android application and have finished a basic prototype. On this page, we are going to inform you about the steps we have taken to this point.
+									
+										<u><h2 id="team">Requirement analysis </h2></u>
+											<p>At the beginning of the course project, we as a group already discussed about a possible realisation of the basic requirements that were initially given. In order to get a feeling of what features a money control app shall encompass, we also took feedback from different types of people who didn’t attend the ISEE lecture but might be interested in such an app. This included other students as well as regular job holders and their typical ways of expensing money. During the following weekly meetings with our customer Dr. Schulze, we checked if our understanding of the requirements was correct and which features were explicitly desired by the customer for which release. When we had translated an abstract requirement into a certain way of implementing it or when we imagined features that would fit well into the context, we asked the customer in the next meeting about those ideas. As we also showed central documentation pieces that were finished in the past week to him, we could always assure that we don’t develop our app into a direction that would be non-conform from the customer’s perspective.</p>
+
+									<p>In our weekly scrum meetings right after the exchange with Dr. Schulze on Thursdays, we discussed what tasks would have to be derived from the given input. In the first phase of the project, a documentation was set up step by step from which a proper app could be built on. When we realised that our understanding of the project has changed, we backtracked the respective documents and brought them up to date.</p>
+
+									<p>The first document that resulted from this process was the list of requirements. Therein, we sorted the information by two criteria: the importance and the context within the app. For the first criterion, we sorted our requirements by either “essential”, “required” and “desired”. Ideally, with each new prototype, we should implement all features of one column. The following table shows the results of this requirement analysis:</p>
+
+									<table style="width:100%">
+									  <tr>
+									  <th></th>
+									    <th>Essential<BR>(Basic Prototype)</th>
+									    <th>Required<BR>(Advanced prototype)</th> 
+									    <th>Desired<BR>(Sophisticated prototype)</th>
+									  </tr>
+
+									  <tr>
+									    <td>First app use</td>
+									    <td>Select currency</td>
+									    <td>Password or PIN-creation</td>
+									    <td>Enter security questions for password/PIN reset. Select language and decimal operator</td>
+									  </tr>
+									  <tr>
+									    <td>Lock screen</td>  
+									    <td></td>
+									    <td>Password/PIN input (the latter via numpad)</td>
+									    <td>Password/PIN reset via security questions</td>
+									  </tr>
+									  <tr>
+									    <td>Home screen</td>    
+									    <td>Current balance, last entries</td>
+									    <td></td>
+									    <td>Display warning when exceeding a desired limit</td>
+									  </tr>
+									  <tr>
+									    <td>New entries</td>  
+									    <td>Selectable date, title, binary choice of income/expense, amount, category, payment method</td>
+									    <td>Further comments</td>
+									    <td></td>
+									  </tr>
+									  <tr>
+									    <td>Input method</td>  
+									    <td>Calendar selection for dates and pop-up list for category and payment method</td>
+									    <td>Numpad for amounts</td>
+									    <td></td>
+									  </tr>
+									  <tr>
+									    <td>Standard values</td>  
+									    <td>Current date</td>
+									    <td>Default category and payment type (defined in the settings)</td>
+									    <td></td>
+									  </tr>
+									  <tr>
+									    <td>Categories</td>  
+									    <td>List of up to 10 daily-life categories for income and expenses</td>
+									    <td>Ability to create and delete custom categories. Provision of pre-defined icons for categories and payment types</td>
+									    <td>Set of icons to choose from for custom categories</td>
+									  </tr>
+									  <tr>
+									    <td>Periodic entries</td>  
+									    <td>Own tab for definition of periodic entries with the same parameters as normal entries plus frequency (x/y * year, x/y * month, x/y * week, x/y * day). Auto-adds periodic entry on due date to normal list while being marked as periodic</td>
+									    <td></td>
+									    <td></td>
+									  </tr>
+									  <tr>
+									    <td>List view</td>  
+									    <td>Chronological order of all entries. Tap on entry to display all information and to change or remove the entry</td>
+									    <td>Sorting and filtering by all entry information. Display last change date for entries</td>
+									    <td>Ability to remove multiple entries at once</td>
+									  </tr>
+									  <tr>
+									    <td>Graphical overview</td>  
+									    <td></td>
+									    <td>Budget development (line chart), income/expense category and payment type distribution (pie chart) and balance by month (bar chart). For all, the timeframe shall be selectable</td>
+									    <td></td>
+									  </tr>
+									  <tr>
+									    <td>Settings</td>  
+									    <td>Ability to change currency (won’t affect amounts) and to remove all entries</td>
+									    <td>Change or remove password/PIN</td>
+									    <td>Change language, change date format, change decimal operator</td>
+									  </tr>
+									  <tr>
+									    <td>Warning setup</td>  
+									    <td></td>
+									    <td></td>
+									    <td>Choose maximum desired expense amount per custom time frame in general or per category in own tab. Ability to change or delete warnings by tapping on them</td>
+									  </tr>
+									</table>
+
+									<p>We assume that if each team member commits about eight hours per week into the project, we should be able to implement all of the listed features on time.</p>
+									
+									<u><h2 id="team">Use cases </h2></u>
+									
+									<p>The next step was to translate these requirements into use cases. Therefore, we created a general overview of those use cases at first which is shown here:</p>
+									
+									<p><span class="logo"><img src="images\UseCaseDiagram.svg" alt="" width="1000px"/></a></span></p>
+								
+									<p>As simple headlines for use cases didn’t provide enough information to construct an application from it, we elaborated all of them in textual form. Here is an example for the “Add new entry” use case:</p>	
+								
+									<p><span class="logo"><img src="images\UseCase.svg" alt="" width="800px"/></a></span></p>
+									
+									<p>In order to stimulate the implementation process and give a better overview about those use cases, central use cases were translated into activity diagrams. To give an example, diagrams about the “Add new entry” activity and the “First setup” are shown here:</p>
+								
+									<p><span class="logo"><img src="images\ActivityDiagram1.svg" alt="" width="1000px"/></a></span></p>
+									<p><span class="logo"><img src="images\ActivityDiagram2.svg" alt="" width="1000px"/></a></span></p>
+									
+									<u><h2 id="team">Object oriented model </h2></u>
+									
+									<p>The subsequent task was to create an object-oriented model out of our use cases. As we had no previous experience with Android app development, we decided to layout the UI oriented classes during the implementation phase and concentrate on the logic and data layer. Below, the corresponding class diagram is shown:</p>
+									
+									<p><span class="logo"><img src="images\FullClassDiagramm.svg" alt="" width="1000px"/></a></span></p>
+																
+									<p>So, what do all of these classes with their attributes and methods do? This is explained in this table:</p>
+									
+									<p><span class="logo"><img src="images\Classdocu.svg" alt="" width="800px"/></a></span></p>
+																				
+
+
+									<u><h2 id="team">Implementation</h2></u>
+											
+									<p>After we finished the documentation and had already played around with “Hello world” like apps in Android Studio, we were ready to get our hands dirty on implementing the essential features of our app. We tackled this process in a dynamic fashion. Instead of discussing requirements anymore, we now slice the planned features into feasible portions and assign the implementation work of those to the team members during our weekly meetings. The assigned tasks are put to protocol and uploaded to our G-Drive. When a task has been finished – especially when other tasks are dependent of it – or when team member has met a problem, we immediately discuss about it on Messenger. In the following team meetings, we analyse whether our weekly planning has been successful and if not, for what reasons and how the process could be improved.</p>
+
+<p>Finally, this initial implementation led to a working first prototype. When the app is opened for the first time, an “empty” home screen will welcome the user. But by adding entries, it will display soon the current balance and recent entries:</p>
+
+								<p><span class="center">
+									<img class="center" src="images\Screenshot1.png" alt="Github" height="25%" width="25%" />
+									<img class="center" src="images\Screenshot2.png" alt="Github" height="25%" width="25%" />
+								</span></p>
+
+									<p>An entry can be added by accessing the corresponding tab and specifying the desired information including the type, the amount, a title, the date, the category, the payment method and a longer comment if needed.</p>
+									
+								<p><span class="center">
+								<img class="center" src="images\Screenshot3.png" alt="Github" height="25%" width="25%" />
+								<img class="center" src="images\Screenshot4.png" alt="Github" height="25%" width="25%" />
+								</span></p>
+	
+									<p>As the home screen only shows the last three entries, all entries can be accessed in the scrollable list overview tab:</p>
+									
+								<p><span class="center">
+								<img class="center" src="images\Screenshot5.png" alt="Github" height="25%" width="25%" />
+								</span></p>
+	
+									<p>Entries are saved to a hidden file and thus are loaded properly again when the app gets restarted. As it took is quite some time to figure out how to code XML files for the layout and get to know with basic Android coding, we didn’t finish implementing the planned recurring entry feature and the currency selection. But as we now have a much improved knowledge about app development, we are confident to implement these features very soon. The APK file to install the app can be downloaded <a href="https://github.com/PhilippGnoyke/ThecleverSwabian/raw/BasicPrototype/app/release/app-release.apk">here</a>.</p>	
+									<p> As pushing to the ISEE repository didn't work: <a href="https://github.com/PhilippGnoyke/ThecleverSwabian/tree/BasicPrototype">here</a> is the Git repository for our first prototype.
+							
+								
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+							<ul>
+								<li><a href="https://dbse-teaching.github.io/isee2019-CleverSwabian/">home</a></li>
+								<li><a href="mailto:md1.rahman@st.ovgu.de">email</a></li>
+									
+							</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

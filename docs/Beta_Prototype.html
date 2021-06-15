@@ -1,0 +1,225 @@
+<!DOCTYPE HTML>
+<!--
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		
+		<title>Beta prototype</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<style>
+		table, th, td {
+		  border: 1px solid black;
+		  border-collapse: collapse;
+		}
+		td {
+		  padding: 15px;
+		  text-align: left;
+		  vertical-align: middle;
+		}
+		th {
+		  padding: 15px;
+		  text-align: center;
+		  font-weight:bold;
+		  vertical-align: middle;
+		}
+		</style>
+		
+		
+	</head>
+	<p>Hello</p>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+								<span class="logo"><a href="https://dbse-teaching.github.io/isee2019-CleverSwabian/"><img src="images\TheCleverSwabian.svg" alt="" width="200px" height="200px"/></a></span>
+						<h1>Beta Prototype & Test Case Design</h1>
+						<p>The Clever Swabian</p>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						
+						<!-- Content -->
+							<section id="content" class="main">
+								<p class="meta">25 June 2019</p>
+
+								<div class="post">
+								  <!-- <p><img src="https://dbse-teaching.github.io/isee2018-Actilog//images/Logo.jpg" alt="Logo" title="Actilog" height="20%" width="100%" /></p> -->
+								
+									<p>Welcome to the blog of team <b>The Clever Swabian</b>! We are a team of four students who are excited to show you the final stages of our project. We are currently building our first Android application and have finished a beta Prototype. On this page, we are going to inform you about the testing methods of our app which we have used during the development phase.
+									
+											<u><h2 id="team">Summary of changes</h2></u>
+											<p>Since the last prototype and blog article, no requirements or major goals changed. However, we managed to finish the implementation of multiple features such as a polished registration, password recovery and login screen,  adding a custom currency, filtering of entries or threshold warnings.</p>
+                                            
+										
+										
+										
+										<u><h2 id="team">Testing of our Application </h2></u>
+											<p>Testing is an essential part of software development. While developing our app, we tested it on a constant basis based on the two methods, black box tasting and white box testing.</p>
+                                            
+									
+									
+									
+									
+									<u><h2 id="team">Black Box Testing </h2></u>
+
+
+
+                                               
+									<p>The technique of testing the software system against the external functional behaviour of the software is called black box testing. The external system behaviour is typically defined in the form of requirement specifications, functional use cases, API docs, etc.</p>
+
+                                            <p>  The focus is completely on the inputs or data that go into the software and the output that comes out of the software. The data processing, internal structure, the code, the development methods, server logic and everything else is not considered or looked into by the tester.</p>
+                                            
+                                            <p>  Since this class of testing is absolutely function centric and is focused on the behaviour of the software, it is also called functional testing and behavioural testing. Few of the other terms used for this type of testing are called opaque testing and closed box testing.</p>
+                                    <p><span class="center"><img src="images\black-box-testing.jpg" alt="" width="60%"/></a></span></p>  
+									<u><h2 id="team">Our Black Box testing Results: </h2></u>
+                                    <p><span class="center"><img src="images\Slide1.jpg" alt="" width=100%"/></a></span></p> 
+                                    <p><span class="center"><img src="images\Slide2.jpg" alt="" width="100%"/></a></span></p> 
+                                    <p><span class="center"><img src="images\Slide3.jpg" alt="" width="100%"/></a></span></p> 
+                                    <p><span class="center"><img src="images\Slide4.jpg" alt="" width="100%"/></a></span></p> 
+                                    <p><span class="center"><img src="images\Slide5.jpg" alt="" width="100%"/></a></span></p> 
+									
+                                    <u><h2 id="team">White Box Testing </h2></u>
+									<p>White box testing techniques are used to analyse the internal structures, the used data structures, internal design, code structure and the working of the software rather than just the functionality as in black box testing. It is also called glass box testing or clear box testing or structural testing.</p>
+									
+                                    <p><span class="center"><img src="images\wbt.png" alt="" width="50%"/></a></span></p> 
+									
+				
+                                    
+                                    <u><h2 id="team">Our White Box Testing Results:</h2></u>
+
+                                    <u><h2 id="team">Branch coverage test:</h2></u>
+								
+									<p>Test case composition: 2 methods from userlayer, 2 from logiclayer, 1 from datalayer</p>	
+                                
+                                    <u><h2 id="team">Test Case 1 (userlayer):</h2></u>
+                                    <p>Class: ActivityAddNewCategory <br />
+                                            Method: void saveCategory() <br />
+                                            Trigger: OnBackPressed calls test method <br />
+                                            Why we chose it for testing: This method is the link between the user- and logiclayer and checking the integrity of the entered data. <br />
+                                            <br />
+                                            Branches:
+                                            <p><span class="center"><img src="images\S1.svg" alt="" width="20%"/></a></span></p>
+                                            </p>
+                                            <p><span class="center"><img src="images\t1.jpg" alt="" width="80%"/></a></span></p> 	
+                                            <u><h2 id="team">Conclusion: </h2></u>
+                                            <p>All branches are reachable and fully executed without runtime errors.<br />
+                                                <br />
+                                                Example for Branch Output:
+                                                <p><span class="center"><img src="images\exm1.png" alt="" width="80%"/></a></span></p>
+                                            </p>	
+                                            <u><h2 id="team">Source Code: </h2>
+                                                <p><span class="center"><img src="images\c1.jpg" alt="" width="80%"/></a></span></p></u>
+                                            
+
+
+                                            <u><h2 id="team">Test Case 2 (userlayer):</h2></u>
+                                    <p>Class: ActivityRegister <br />
+                                        Method: void skipRegistration() <br />
+                                        Trigger: OnBackPressed calls test method <br />
+                                        Why we chose it for testing: This method is highly dependent on the state the activity is in and communicates at several points with the managers. <br />
+                                            <br />
+                                            Branches:
+                                            <p><span class="center"><img src="images\S2.svg" alt="" width="20%"/></a></span></p>
+                                            </p>
+                                            <p><span class="center"><img src="images\t2.jpg" alt="" width="80%"/></a></span></p> 	
+                                            <u><h2 id="team">Conclusion: </h2></u>
+                                            <p>All branches are reachable and fully executed without runtime errors.<br />
+                                            </p>	
+                                            <u><h2 id="team">Source Code: </h2>
+                                                <p><span class="center"><img src="images\c2.jpg" alt="" width="80%"/></a></span></p></u>
+
+
+                                                <u><h2 id="team">Test Case 3 (logiclayer):</h2></u>
+                                                <p>Class: CategoryManager <br />
+                                                    Method: boolean removeCategory(int position, boolean type) <br />
+                                                    Trigger: OnBackPressed in FragmentHome calls test method <br />
+                                                    Why: The passed position to remove might not exist in the category list. By not checking properly, invalid values could lead to crashes or other misbehaviour.   <br />
+                                                        <br />
+                                                        Branches:
+                                                        <p><span class="center"><img src="images\S3.svg" alt="" width="20%"/></a></span></p>
+                                                        </p>
+                                                        <p><span class="center"><img src="images\t3.jpg" alt="" width="60%"/></a></span></p> 	
+                                                        <u><h2 id="team">Conclusion: </h2></u>
+                                                        <p>All branches are reachable and fully executed without runtime errors. The output result matches the expectations.<br />
+                                                        </p>	
+                                                        <u><h2 id="team">Source Code: </h2>
+                                                            <p><span class="center"><img src="images\c3.jpg" alt="" width="80%"/></a></span></p></u>   
+                                                            
+                                                            
+
+                                                            <u><h2 id="team">Test Case 4 (logiclayer):</h2></u>
+                                                            <p>Class: SettingsManager <br />
+                                                                Method: Integer getCurrentCurrencyPosition()  <br />
+                                                                Trigger: OnBackPressed in FragmentHome calls test method <br />
+                                                                Why we chose it for testing: Conducting a test for methods that can return null can prove to be important as this shows, if the result matches the expectation. We already faced a bug with a similar issue.<br />
+                                                                    <br />
+                                                                    Branches:
+                                                                    <p><span class="center"><img src="images\S4.svg" alt="" width="20%"/></a></span></p>
+                                                                    </p>
+                                                                    <p><span class="center"><img src="images\t4.jpg" alt="" width="48%"/></a></span></p> 	
+                                                                    <u><h2 id="team">Conclusion: </h2></u>
+                                                                    <p>All branches are reachable and fully executed without runtime errors. The output result matches the expectations. The for loop is broken at the right point to prevent unnecessary computation.<br />
+                                                                    </p>	
+                                                                    <u><h2 id="team">Source Code: </h2>
+                                                                        <p><span class="center"><img src="images\c4.jpg" alt="" width="80%"/></a></span></p></u>                      
+                           
+                                                                        <u><h2 id="team">Test Case 5 (logiclayer):</h2></u>
+                                                                        <p>Class: DatabaseHelper <br />
+                                                                            Method: Object getFirstObject(String table, Class endClass)  <br />
+                                                                            Trigger: OnBackPressed in FragmentHome calls test method <br />
+                                                                            Why we chose it for testing: In several managers, one-object tables are in use. Assigning primitive classes like int or boolean a non-null value on loading also prevents crashes that we already had to face. Checking if they read out their data correctly on loading is crucial to the app’s quality and stability. <br />
+                                                                                <br />
+                                                                                Branches:
+                                                                                <p><span class="center"><img src="images\S5.svg" alt="" width="20%"/></a></span></p>
+                                                                                </p>
+                                                                                <p><span class="center"><img src="images\t5.jpg" alt="" width="80%"/></a></span></p> 	
+                                                                                <u><h2 id="team">Conclusion: </h2></u>
+                                                                                <p>All branches are reachable and fully executed without runtime errors. The output result matches the expectations. Non-empty tables all go through path B.<br />
+                                                                                </p>	
+                                                                                <u><h2 id="team">Source Code: </h2>
+                                                                                    <p><span class="center"><img src="images\c5.jpg" alt="" width="80%"/></a></span></p></u>  
+									
+								</span></p>
+	
+									
+									<p> The beta prototype branch can be found <a href="https://github.com/PhilippGnoyke/ThecleverSwabian/tree/BetaPrototype">here</a> and <a href="https://github.com/PhilippGnoyke/ThecleverSwabian/raw/BetaPrototype/app/release/app-release.apk">here</a> is the .APK download link.
+							
+								
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+							<ul>
+								<li><a href="https://dbse-teaching.github.io/isee2019-CleverSwabian/">home</a></li>
+								<li><a href="mailto:md1.rahman@st.ovgu.de">email</a></li>
+									
+							</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

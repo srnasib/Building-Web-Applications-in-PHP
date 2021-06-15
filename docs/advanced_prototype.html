@@ -1,0 +1,240 @@
+<!DOCTYPE HTML>
+<!--
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		
+		<title>Advanced Prototype</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+		<style>
+		table, th, td {
+		  border: 1px solid black;
+		  border-collapse: collapse;
+		}
+		td {
+		  padding: 15px;
+		  text-align: left;
+		  vertical-align: middle;
+		}
+		th {
+		  padding: 15px;
+		  text-align: center;
+		  font-weight:bold;
+		  vertical-align: middle;
+		}
+		</style>
+		
+		
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+								<span class="logo"><a href="https://dbse-teaching.github.io/isee2019-CleverSwabian/"><img src="images\TheCleverSwabian.svg" alt="" width="200px" height="200px"/></a></span>
+						<h1>Advanced Prototype</h1>
+						<p>The Clever Swabian</p>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						
+						<!-- Content -->
+							<section id="content" class="main">
+								<p class="meta">04 June 2019</p>
+
+								<div class="post">
+								  <!-- <p><img src="https://dbse-teaching.github.io/isee2018-Actilog//images/Logo.jpg" alt="Logo" title="Actilog" height="20%" width="100%" /></p> -->
+								
+									<p>Welcome to the blog of team <b>The Clever Swabian</b>! We are a team of four students who are excited to show you the progress of our project. We are currently building our first Android application and have finished a basic prototype. On this page, we are going to inform you about the steps we have taken to this point.
+									
+										<h2 id="team"><b>Advanced Prototype details </b></h2>
+											<p>After finishing the basic prototype we moved on to the implementation of our project according to our class diagram and usecase. In this phase we turn all our paperworks and designs into a visual form.</p>
+									<h3><b>Design Pattern</b></h3>
+                                                                            <p>As we proceed on development we have realised that following a certain design pattern makes work easier and efficient when there are multuple developers. The main design pattern we try to follow MVC. It is perhaps the most common design pattern in the development world. By definition The Model-View-Controller (MVC) is an architectural pattern that separates an application into three main logical components: the model, the view, and the controller. Each of these components are built to handle specific development aspects of an application.  </p>
+									     <p>Our Model,View and Controller are as followig: <br>  <ul style="list-style-type:circle;"> 
+									                                                                     <li>Model:Category,Payment Type, all the transactions </li>
+									                                                                      <li>View:The UI</li>
+									                                                                      <li>Controller: Manager Classes</li></p><p>In short about these three parts, The Model component corresponds to all the data-related logic that the user works with. This can represent either the data that is being transferred between the View and Controller components or any other business logic-related data. The View component is used for all the UI logic of the application. For example, the Customer view will include all the UI components such as category lists, entries etc. that the final user interacts with. Controllers act as an interface between Model and View components to process all the business logic and incoming requests, manipulate data using the Model component and interact with the Views to render the final output.</p>
+                                                                              <p>The main reasons behind chosing this design pattern is because separating implementation into separate classes that aren't strictly tied to each other, so if you need to change the code in one area of functionality, you can do it more easily without disturbing other unrelated code. MVC is a good way to achieve this goal in web application architecture. By separating controllers (handling requests and mapping to business logic), models (implementing business logic), and views (presenting and formatting output), it's easier to change code in each of these layers. In one word you can reuse code more easily. It makes code agile, scalable, robust and modular.</p>
+									<h3><b>Coding Convention</b></h3>
+									<p>By Definition,Coding conventions are a set of guidelines for a specific programming language that recommend programming style, practices, and methods for each aspect of a program written in that language. These conventions usually cover file organization, indentation, comments, declarations, statements, white space, naming conventions, programming practices, programming principles, programming rules of thumb, architectural best practices, etc. These are guidelines for software structural quality. Software programmers are highly recommended to follow these guidelines to help improve the readability of their source code and make software maintenance easier. Coding conventions are only applicable to the human maintainers and peer reviewers of a software project. Conventions may be formalized in a documented set of rules that an entire team or company follows, or may be as informal as the habitual coding practices of an individual. Coding conventions are not enforced by compilers.</p>
+									<p>However, ours is a small project and thus all the conventions are not required. Although we tried so far to follow as much as possible. It helped greatly keeping things organised.</p>
+									 <img src="images\CodingConvention.png" alt="" width="320px" height="500px"/>
+									<p>Following are some rules we were stick to: <br>
+									              <ul style="list-style-type:square;">
+											      <li>Applying commonly accepted rules </li>
+											      <li>Organizing similar classes in a similar way (e.g. the use of attributes and methods in our Fragments or if you look at the classes Entry, Category and PaymentMethod on one side and their manager classes on the other side) </li>
+											      <li>The IDs of xml objects are more or less organized in a uniform way  </li>
+											      <li>XML objects in Fragments are always declared as attributes of the Fragment class and named in a more or less uniform way </li></p>
+									<p>We are working with Android Studio, It is an amazing IDE because along with other thing it helps to organise codes and designs. Perhaps we couldn't follow the convention all the time but we always kept it in our mind to follow it </p>
+									<img class="center" src="images\xmlpart.png" alt="" width="320px" height="500px"/>
+									<h3><b>User Profiles</b></h3>
+									<p>We are developing this application targetting a group of people who will find this app in their day to day activities. All softwars usually have a target set of users. Our target groups are the people who will find it necessary to keep track of their day to day expenses and income as simply as possible. To specify a large group of users we need to conduct a big research project which we won't be able to conduct. Therefore, we're explaining the usage of our app using two personas: <br>
+									                               <ul style="list-style-type:square;">
+													      <li>Restaurant Owner</li> 
+													       <li>Student</li></p>
+									<h4><b>Alex Batterman</b></h4>
+									<p>Our first user is Alex Batterman owns a retaurant in an important location in Berlin. He has to spend a very busy week as he manages the whole restaurant by himself. In his occupation he has to keep track of money all the time. From paying rent and salaries to the employees to earnings, every cent has to be tracked to make profit.<br> Our money tracker app can be of great use for him as he can easily keep track of his busines transactions. Our category list would help him to separate all of his expense and income. Also he can keep all of his information safe by using an Id and Password. Overall the whole app will make life easier for Alex.</p>
+									 <table style="width:100%">
+								         <caption>Profile</caption>
+										 <tr><td>Age</td><td>37</td> </tr>
+										  <tr><td>Gender</td><td>Male</td> </tr>
+										 <tr><td>Education</td><td> BA in Business Economics</td> </tr>
+										 <tr><td>Profession</td><td>Businessman</td> </tr>
+										 <tr><td>Location</td><td>Berlin, Germany</td> </tr>
+										 <tr><td>Hobby</td><td>Travelling, Photography</td> </tr>
+										 <tr><td>About Alex</td><td>Spends busy time during holidays, very oriented person, always alert about financial sector, 11 years of working experience</td> </tr>
+										 <tr><td>Devices</td><td>Samsung Galaxy A50, ipad pro</td> </tr></table>
+								         
+								        <h4><b>Maria Aasland</b></h4>
+									<p>Our second target user is Maria Aasland from Norway. She is studying as a Master in Data and Knowledge Engineering student here at OVGU. As Maria is away from her home she always has to keep track of his expenses and manage living here in Germany. She strctly needs to maintain her budget and our app contributes as a great help making a student life easier. We have a warning screen which will keep our user always alert if he/she exceeds their monthly plan. Indeed it is a very smart and easy going solution for a student </p>
+									<table style="width:100%">
+									<caption>Profile</caption>
+										 <tr><td>Age</td><td>21</td> </tr>
+										  <tr><td>Gender</td><td>Female</td> </tr>
+										 <tr><td>Education</td><td> MSc. in DKE</td> </tr>
+										 <tr><td>Profession</td><td>Student</td> </tr>
+										 <tr><td>Location</td><td>Magdeburg, Germany</td> </tr>
+										 <tr><td>Hobby</td><td>Guitar playing, singing, reading novels</td> </tr>
+										
+										 <tr><td>About Alex</td><td>spends a lot of time in the library,always loves to have fun, cat lover</td> </tr>
+										<tr><td>Devices</td><td>huawei P30 pro</td> </tr></table>
+									<p>Initially, we focus on these personas while designing our requirements and implementing. </p>
+									
+								        <h3><b>Design Solution</b></h3>
+									<h4><b>Story Board</b></h4>
+									<p>By definition A storyboard is a graphic organizer that provides the viewer with a high-level view of a project. In Agile software development, a storyboard can help developers quickly get a sense of what work still needs to be completed </p>
+									<p>“As a user, I want to able to add new entries as easy as possible from the home screen. I want to able to specify the amount, the title, the date, the category, the payment method and add a further comment. For all of this, I want to use a self-explaining UI interface. When saving an entry, I want to get a confirmation that it has been saved.”</p>
+									<p>Here the sequence would be as follows:</p>
+									<style>* {
+										box-sizing: border-box;
+										}
+										.column {
+											float: left;
+											width: 33.33%;
+											padding: 2px;
+										}
+										/* Clearfix (clear floats) */
+										.row::after {
+											content: "";
+											clear: both;
+											display: table;
+										}</style>
+									<div class="row">
+										<div class="column">
+											<img src="images\1.png" alt="" style="width:100%">
+										</div>
+										<div class="column">
+											<img src="images\2.png" alt="" style="width:100%">
+										</div>
+										<div class="column">
+											<img src="images\3.png" alt="" style="width:100%">
+										</div>
+								        
+										
+</div>
+									
+			                                                 <p>“As a user, I want to be able to add new recurring entries and keep track of them separate from normal entries. As with normal entries, I want to able to change from expense to income and vice-versa. I want to have a preset choice of common appropriate categories for both expenses and income. For recurring entries, I want to be able to specify the interval and optionally the end date. From the list view, I want to able to select (recurring) entries to view, edit or delete them.”</p>
+									<p>Here the sequence would be as follows:</p>
+															<style>* {
+										box-sizing: border-box;
+										}
+										.column {
+											float: left;
+											width: 33.33%;
+											padding: 2px;
+										}
+										/* Clearfix (clear floats) */
+										.row::after {
+											content: "";
+											clear: both;
+											display: table;
+										}</style>
+									<div class="row">
+										<div class="column">
+											<img src="images\10.png" alt="" style="width:100%">
+										</div>
+										<div class="column">
+											<img src="images\11.png" alt="" style="width:100%">
+										</div>
+										<div class="column">
+											<img src="images\12.png" alt="" style="width:100%">
+										</div>
+								        
+										
+</div>
+								         <h4><b>UI Design</b></h4>
+									<p>We want to have a very simple and user friendly UI, that was our main goal while designing the UI prototype. Also we thought about focusing on making the app nice. It is difficult rather to combine them two. We didn't actually follow any specific design pattern. We focused on trying to balance between making it user friendly and looking colorful</p>
+									
+									<h2>Summary of Changes</h2>
+									<p>So far there are no major changes in our project plan. However there are still some minor changes we made after talking to some customers. Also some things we cancelled after evaluating them.<br>
+									                                <ul style="list-style-type:circle;"> 
+									                                        <li>The user shall be able to export a monthly report, e.g. as a pdf file that sums up his spending behaviour</li>
+									                                            <li>The user shall be able to go directly from the add new entry screen to the category manager, add a new category there and resume adding the entry without losing any entered data</li>
+									                                      <li>The filter function shall also be applicable to the diagrams</li></p>
+									<p>Cancelled planned features: Choice of decimal operator as deviating from the device preset created conflicts with the keyboard input and the way Android computes double numbers</p>
+									
+									<h4><b>Class Diagram</b></h4>
+									<p>There are some changes also in our class Diagram. In the logic Layer we have updated some things for the UI. We have added and updated the Manager classes which the Controllers in the project. Here is the brief view of updated class diagram.</p>
+									<img src="images\NewCompactClassDiagram.png" alt="" width="700px" height="500px"/>
+									<h3><b>ScreenShots</b></h3>
+									<p>Here are some screenshots from the project that is already done or in progress</p>
+
+								<p><span class="center">
+									<img class="center" src="images\Login.png" alt="Github" height="25%" width="25%" />
+									<img class="center" src="images\AllTransactions.png" alt="Github" height="25%" width="25%" />
+									<img class="center" src="images\Recurring Entries.png" alt="Github" height="25%" width="25%" />
+								</span></p>
+
+									<p>The first page of our app is Login. Here the user can login with id and password. If the user is new then he/she can register by clicking REGISTER. Then the second one shows all the transactions after sorting them according to the date and category. Then the screen shot of the Recurring Entry page. Here the user can add or delete an entry that occurs on regular basis after a certain time period.</p>
+									
+								<p><span class="center">
+								<img class="center" src="images\Categories.png" alt="Github" height="25%" width="25%" />
+								<img class="center" src="images\5.png" alt="Github" height="25%" width="25%" />
+									<img class="center" src="images\6.png" alt="Github" height="25%" width="25%" />
+								</span></p>
+	
+									<p>The first screenshot shows the category list. We can add new category if necessary. Then we can see the pop up category list while adding new entry. After that the payment methods are shown in the pop up menu.</p>
+									
+	                                                                 <h2><b>Summary</b></h2>
+									<p>We have already Completed some major features so far.We are confident that the implementation will be done soon though we are little bit behind the schedule. The APK file to install the app can be downloaded <a href="https://github.com/PhilippGnoyke/ThecleverSwabian/raw/BasicPrototype/app/release/app-release.apk">here</a>.</p>	
+									<p> As pushing to the ISEE repository didn't work: <a href="https://github.com/PhilippGnoyke/ThecleverSwabian/tree/BasicPrototype">here</a> is the Git repository for our first prototype.
+							
+								
+								</div>
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+							<ul>
+								<li><a href="https://dbse-teaching.github.io/isee2019-CleverSwabian/">home</a></li>
+								<li><a href="mailto:md1.rahman@st.ovgu.de">email</a></li>
+									
+							</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

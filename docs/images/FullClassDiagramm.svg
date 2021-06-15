@@ -1,0 +1,1453 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="background-color: rgb(255, 255, 255);"
+   version="1.1"
+   width="931px"
+   height="946px"
+   viewBox="-0.5 -0.5 931 946"
+   content="&lt;mxfile modified=&quot;2019-05-13T18:11:41.988Z&quot; host=&quot;www.draw.io&quot; agent=&quot;Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0&quot; etag=&quot;3Mx8lPSn7MncU2K4VTDH&quot; version=&quot;10.6.7&quot; type=&quot;device&quot;&gt;&lt;diagram name=&quot;Page-1&quot; id=&quot;c4acf3e9-155e-7222-9cf6-157b1a14988f&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;"
+   id="svg457"
+   sodipodi:docname="FullClassDiagramm.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata461">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview459"
+     showgrid="false"
+     inkscape:zoom="1.4112237"
+     inkscape:cx="731.33685"
+     inkscape:cy="441.03103"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g455" />
+  <defs
+     id="defs59">
+    <clipPath
+       id="mx-clip-704-758-202-134-0">
+      <rect
+         x="704"
+         y="758"
+         width="202"
+         height="134"
+         id="rect2" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-704-900-202-32-0">
+      <rect
+         x="704"
+         y="900"
+         width="202"
+         height="32"
+         id="rect5" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-417-828-202-64-0">
+      <rect
+         x="417"
+         y="828"
+         width="202"
+         height="64"
+         id="rect8" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-417-900-202-32-0">
+      <rect
+         x="417"
+         y="900"
+         width="202"
+         height="32"
+         id="rect11" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-417-682-202-54-0">
+      <rect
+         x="417"
+         y="682"
+         width="202"
+         height="54"
+         id="rect14" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-417-744-202-32-0">
+      <rect
+         x="417"
+         y="744"
+         width="202"
+         height="32"
+         id="rect17" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-29-426-362-44-0">
+      <rect
+         x="29"
+         y="426"
+         width="362"
+         height="44"
+         id="rect20" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-29-478-362-132-0">
+      <rect
+         x="29"
+         y="478"
+         width="362"
+         height="132"
+         id="rect23" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-29-656-302-64-0">
+      <rect
+         x="29"
+         y="656"
+         width="302"
+         height="64"
+         id="rect26" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-29-728-302-132-0">
+      <rect
+         x="29"
+         y="728"
+         width="302"
+         height="132"
+         id="rect29" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-444-199-462-24-0">
+      <rect
+         x="444"
+         y="199"
+         width="462"
+         height="24"
+         id="rect32" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-444-231-462-112-0">
+      <rect
+         x="444"
+         y="231"
+         width="462"
+         height="112"
+         id="rect35" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-29-199-372-84-0">
+      <rect
+         x="29"
+         y="199"
+         width="372"
+         height="84"
+         id="rect38" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-29-291-372-92-0">
+      <rect
+         x="29"
+         y="291"
+         width="372"
+         height="92"
+         id="rect41" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-704-564-202-44-0">
+      <rect
+         x="704"
+         y="564"
+         width="202"
+         height="44"
+         id="rect44" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-704-616-202-32-0">
+      <rect
+         x="704"
+         y="616"
+         width="202"
+         height="32"
+         id="rect47" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-574-391-332-24-0">
+      <rect
+         x="574"
+         y="391"
+         width="332"
+         height="24"
+         id="rect50" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-574-415-332-24-0">
+      <rect
+         x="574"
+         y="415"
+         width="332"
+         height="24"
+         id="rect53" />
+    </clipPath>
+    <clipPath
+       id="mx-clip-574-447-332-82-0">
+      <rect
+         x="574"
+         y="447"
+         width="332"
+         height="82"
+         id="rect56" />
+    </clipPath>
+  </defs>
+  <g
+     id="g455">
+    <path
+       d="m 10,113 h 40 v 14 H 930 V 943 H 10 V 127 Z"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path61"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#000000;stroke-miterlimit:10" />
+    <path
+       d="M 10 129 L 50 129"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path63" />
+    <path
+       d="M 752.29 727.29 L 752.29 675.29 L 660.29 675.29 L 660.29 615.29 L 495.71 615.29 L 495.71 339.29"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path65" />
+    <g
+       transform="translate(484.5,341.5)"
+       id="g71">
+      <switch
+         id="switch69">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="7"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: right;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">1</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="4"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text67">1</text>
+      </switch>
+    </g>
+    <g
+       transform="translate(741.5,706.5)"
+       id="g77">
+      <switch
+         id="switch75">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="5"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: right;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">*</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="3"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text73">*</text>
+      </switch>
+    </g>
+    <path
+       d="M 804.86 719.17 L 804.86 685 L 838 685 L 838 643.29"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path79" />
+    <path
+       d="M 804.86 726.17 L 801.36 719.17 L 808.36 719.17 Z"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path81" />
+    <path
+       d="M 700 753 L 700 727 L 910 727 L 910 753"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path83" />
+    <path
+       d="M 700 753 L 700 927 L 910 927 L 910 753"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path85" />
+    <path
+       d="M 700 753 L 910 753"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path87" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g91">
+      <text
+         x="804.5"
+         y="745.07"
+         id="text89">Entry</text>
+    </g>
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-704-758-202-134-0)"
+       font-size="12px"
+       id="g111">
+      <text
+         x="705.5"
+         y="770.5"
+         id="text93">- id: int</text>
+      <text
+         x="705.5"
+         y="784.5"
+         id="text95">- date: Date</text>
+      <text
+         x="705.5"
+         y="798.5"
+         id="text97">- title: String</text>
+      <text
+         x="705.5"
+         y="812.5"
+         id="text99">- type: boolean</text>
+      <text
+         x="705.5"
+         y="826.5"
+         id="text101">- amount: double</text>
+      <text
+         x="705.5"
+         y="840.5"
+         id="text103">- category: Category</text>
+      <text
+         x="705.5"
+         y="854.5"
+         id="text105">- paymentMethod: PaymentMethod</text>
+      <text
+         x="705.5"
+         y="868.5"
+         id="text107">- comment: String</text>
+      <text
+         x="705.5"
+         y="882.5"
+         id="text109">- modificationTime: Date</text>
+    </g>
+    <path
+       d="M 700 891 L 910 891"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path113" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-704-900-202-32-0)"
+       font-size="12px"
+       id="g117">
+      <text
+         x="705.5"
+         y="912.5"
+         id="text115">+ Constructor, getters and setters</text>
+    </g>
+    <path
+       d="M 412.5 823 L 412.5 797 L 622.5 797 L 622.5 823"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path119" />
+    <path
+       d="M 412.5 823 L 412.5 927 L 622.5 927 L 622.5 823"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path121" />
+    <path
+       d="M 412.5 823 L 622.5 823"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path123" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g127">
+      <text
+         x="517"
+         y="815.07"
+         id="text125">Category</text>
+    </g>
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-417-828-202-64-0)"
+       font-size="12px"
+       id="g137">
+      <text
+         x="418"
+         y="840.5"
+         id="text129">- id: int</text>
+      <text
+         x="418"
+         y="854.5"
+         id="text131">- type: boolean</text>
+      <text
+         x="418"
+         y="868.5"
+         id="text133">- name: String</text>
+      <text
+         x="418"
+         y="882.5"
+         id="text135">- iconId: int</text>
+    </g>
+    <path
+       d="M 412.5 891 L 622.5 891"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path139" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-417-900-202-32-0)"
+       font-size="12px"
+       id="g143">
+      <text
+         x="418"
+         y="912.5"
+         id="text141">+ Constructor, getters and setters</text>
+    </g>
+    <path
+       d="M 412.5 677 L 412.5 651 L 622.5 651 L 622.5 677"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path145" />
+    <path
+       d="M 412.5 677 L 412.5 771 L 622.5 771 L 622.5 677"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path147" />
+    <path
+       d="M 412.5 677 L 622.5 677"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path149" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g153">
+      <text
+         x="517"
+         y="669.07"
+         id="text151">PaymentMethod</text>
+    </g>
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-417-682-202-54-0)"
+       font-size="12px"
+       id="g161">
+      <text
+         x="418"
+         y="694.5"
+         id="text155">- id: int</text>
+      <text
+         x="418"
+         y="708.5"
+         id="text157">- name: String</text>
+      <text
+         x="418"
+         y="722.5"
+         id="text159">- iconId: int</text>
+    </g>
+    <path
+       d="M 412.5 735 L 622.5 735"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path163" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-417-744-202-32-0)"
+       font-size="12px"
+       id="g167">
+      <text
+         x="418"
+         y="756.5"
+         id="text165">+ Constructor, getters and setters</text>
+    </g>
+    <path
+       d="M 25 421 L 25 395 L 395 395 L 395 421"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path169" />
+    <path
+       d="M 25 421 L 25 605 L 395 605 L 395 421"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path171" />
+    <path
+       d="M 25 421 L 395 421"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path173" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g177">
+      <text
+         x="209.5"
+         y="413.07"
+         id="text175">PaymentMethodManager</text>
+    </g>
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-29-426-362-44-0)"
+       font-size="12px"
+       id="g183">
+      <text
+         x="30.5"
+         y="438.5"
+         id="text179">- paymentMethods: ArrayList&lt;PaymentMethod&gt;</text>
+      <text
+         x="30.5"
+         y="452.5"
+         id="text181">- defaultPaymentMethod: PaymentMethod</text>
+    </g>
+    <path
+       d="M 25 469 L 395 469"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path185" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-29-478-362-132-0)"
+       font-size="12px"
+       id="g203">
+      <text
+         x="30.5"
+         y="490.5"
+         id="text187">+ getPaymentMethods(): ArrayList&lt;PaymentMethod&gt;</text>
+      <text
+         x="30.5"
+         y="504.5"
+         id="text189">+ getDefaultPaymentMethod(): PaymentMethod</text>
+      <text
+         x="30.5"
+         y="518.5"
+         id="text191">+ getPaymentMethodNames(): String[ ]</text>
+      <text
+         x="30.5"
+         y="532.5"
+         id="text193">+ addPaymentMethod(paymentMethod: PaymentMethod): boolean</text>
+      <text
+         x="30.5"
+         y="546.5"
+         id="text195">+ removePaymentMethod(id: int): boolean</text>
+      <text
+         x="30.5"
+         y="560.5"
+         id="text197">+ setDefaultPaymentMethod(id: int): boolean</text>
+      <text
+         x="30.5"
+         y="574.5"
+         id="text199">- savePaymentMethods(): void</text>
+      <text
+         x="30.5"
+         y="588.5"
+         id="text201">- loadPaymentMethods(): void</text>
+    </g>
+    <path
+       d="M 25 651 L 25 625 L 335 625 L 335 651"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path205" />
+    <path
+       d="M 25 651 L 25 855 L 335 855 L 335 651"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path207" />
+    <path
+       d="M 25 651 L 335 651"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path209" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g213">
+      <text
+         x="179.5"
+         y="643.07"
+         id="text211">CategoryManager</text>
+    </g>
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-29-656-302-64-0)"
+       font-size="12px"
+       id="g223">
+      <text
+         x="30.5"
+         y="668.5"
+         id="text215">- expenseCategories: ArrayList&lt;Category&gt;</text>
+      <text
+         x="30.5"
+         y="682.5"
+         id="text217">- incomeCategories: ArrayList&lt;Category&gt;</text>
+      <text
+         x="30.5"
+         y="696.5"
+         id="text219">- defaultExpenseCategory: Category</text>
+      <text
+         x="30.5"
+         y="710.5"
+         id="text221">- defaultIncomeCategory: Category</text>
+    </g>
+    <path
+       d="M 25 719 L 335 719"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path225" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-29-728-302-132-0)"
+       font-size="12px"
+       id="g243">
+      <text
+         x="30.5"
+         y="740.5"
+         id="text227">+ getCategories(type: boolean): ArrayList&lt;Entry&gt;</text>
+      <text
+         x="30.5"
+         y="754.5"
+         id="text229">+ getDefaultCategory(type: boolean): Category</text>
+      <text
+         x="30.5"
+         y="768.5"
+         id="text231">+ getCategoryNames(type: boolean): String[ ]</text>
+      <text
+         x="30.5"
+         y="782.5"
+         id="text233">+ addCategory(category: Category): boolean</text>
+      <text
+         x="30.5"
+         y="796.5"
+         id="text235">+ removeCategory(id: int): boolean</text>
+      <text
+         x="30.5"
+         y="810.5"
+         id="text237">+ setDefaultCategory(id: int, type: boolean): boolean</text>
+      <text
+         x="30.5"
+         y="824.5"
+         id="text239">- saveCategories(): void</text>
+      <text
+         x="30.5"
+         y="838.5"
+         id="text241">- loadCategories():void</text>
+    </g>
+    <path
+       d="M 440 194 L 440 168 L 910 168 L 910 194"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path245" />
+    <path
+       d="M 440 194 L 440 338 L 910 338 L 910 194"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path247" />
+    <path
+       d="M 440 194 L 910 194"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path249" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g253">
+      <text
+         x="674.5"
+         y="186.07"
+         id="text251">EntryManager</text>
+    </g>
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-444-199-462-24-0)"
+       font-size="12px"
+       id="g257">
+      <text
+         x="445.5"
+         y="211.5"
+         id="text255">- entries: ArrayList&lt;Entry&gt;</text>
+    </g>
+    <path
+       d="M 440 222 L 910 222"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path259" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-444-231-462-112-0)"
+       font-size="12px"
+       id="g275">
+      <text
+         x="445.5"
+         y="243.5"
+         id="text261">+ getEntries(): ArrayList&lt;Entry&gt;</text>
+      <text
+         x="445.5"
+         y="257.5"
+         id="text263">+ addEntry(entry: Entry): boolean</text>
+      <text
+         x="445.5"
+         y="271.5"
+         id="text265">+ removeEntry(int: id): boolean</text>
+      <text
+         x="445.5"
+         y="285.5"
+         id="text267">- saveEntries(): void</text>
+      <text
+         x="445.5"
+         y="299.5"
+         id="text269">- loadEntries(): void</text>
+      <text
+         x="445.5"
+         y="313.5"
+         id="text271">+ getSortedEntries(order: boolean, comparator: Comparator&lt;Entry&gt;): ArrayList&lt;Entry&gt;</text>
+      <text
+         x="445.5"
+         y="327.5"
+         id="text273">+ getFilteredEntries(...): ArrayList&lt;Entry&gt;</text>
+    </g>
+    <path
+       d="M 25 194 L 25 168 L 405 168 L 405 194"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path277" />
+    <path
+       d="M 25 194 L 25 378 L 405 378 L 405 194"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path279" />
+    <path
+       d="M 25 194 L 405 194"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path281" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g285">
+      <text
+         x="214.5"
+         y="186.07"
+         id="text283">SettingsManager</text>
+    </g>
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-29-199-372-84-0)"
+       font-size="12px"
+       id="g297">
+      <text
+         x="30.5"
+         y="211.5"
+         id="text287">- password: String</text>
+      <text
+         x="30.5"
+         y="225.5"
+         id="text289">- currency: String</text>
+      <text
+         x="30.5"
+         y="239.5"
+         id="text291">- decimalOperator: int</text>
+      <text
+         x="30.5"
+         y="253.5"
+         id="text293">- dateFormat: int</text>
+      <text
+         x="30.5"
+         y="267.5"
+         id="text295">- language: int</text>
+    </g>
+    <path
+       d="M 25 282 L 405 282"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path299" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-29-291-372-92-0)"
+       font-size="12px"
+       id="g311">
+      <text
+         x="30.5"
+         y="303.5"
+         id="text301">+ setPassword(oldPassword: String, newPassword: String): boolean</text>
+      <text
+         x="30.5"
+         y="317.5"
+         id="text303">+ checkPassword(password: String): boolean</text>
+      <text
+         x="30.5"
+         y="331.5"
+         id="text305">+ getters and setters for other attributes</text>
+      <text
+         x="30.5"
+         y="345.5"
+         id="text307">- saveSettings(): void</text>
+      <text
+         x="30.5"
+         y="359.5"
+         id="text309">- loadSettings(): void</text>
+    </g>
+    <path
+       d="M 700 559 L 700 533 L 910 533 L 910 559"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path313" />
+    <path
+       d="M 700 559 L 700 643 L 910 643 L 910 559"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path315" />
+    <path
+       d="M 700 559 L 910 559"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path317" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g321">
+      <text
+         x="804.5"
+         y="551.07"
+         id="text319">RecurringEntry</text>
+    </g>
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-704-564-202-44-0)"
+       font-size="12px"
+       id="g327">
+      <text
+         x="705.5"
+         y="576.5"
+         id="text323">- endDate: Date</text>
+      <text
+         x="705.5"
+         y="590.5"
+         id="text325">- interval: Date</text>
+    </g>
+    <path
+       d="M 700 607 L 910 607"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path329" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-704-616-202-32-0)"
+       font-size="12px"
+       id="g333">
+      <text
+         x="705.5"
+         y="628.5"
+         id="text331">+ Constructor, getters and setters</text>
+    </g>
+    <path
+       d="M 570 386 L 570 360 L 910 360 L 910 386"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path335" />
+    <path
+       d="M 569.96141,386.03446 V 495.50851 H 910.03859 V 386.03446"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path337"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:0.89076948;stroke-miterlimit:10" />
+    <path
+       d="M 570 386 L 910 386"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path339" />
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g343">
+      <text
+         x="739.5"
+         y="378.07"
+         id="text341">RecurringEntryManager</text>
+    </g>
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-574-391-332-24-0)"
+       font-size="12px"
+       id="g347">
+      <text
+         x="575.5"
+         y="403.5"
+         id="text345">- recurringEntries: ArrayList&lt;RecurringEntry&gt;</text>
+    </g>
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       clip-path="url(#mx-clip-574-415-332-24-0)"
+       font-size="12px"
+       id="g351" />
+    <path
+       d="M 570,412 H 910"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path353"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-miterlimit:10" />
+    <g
+       clip-path="url(#mx-clip-574-447-332-82-0)"
+       font-size="12px"
+       id="g365"
+       transform="translate(0,-32)"
+       style="font-size:12px;font-family:Helvetica;fill:#000000">
+      <text
+         x="575.5"
+         y="459.5"
+         id="text355">+ getRecurringEntries(): ArrayList&lt;RecurringEntry&gt;</text>
+      <text
+         x="575.5"
+         y="473.5"
+         id="text357">+ addRecurringEntry(recurringEntry: RecurringEntry): boolean</text>
+      <text
+         x="575.5"
+         y="487.5"
+         id="text359">+ removeRecurringEntry(int: id): boolean</text>
+      <text
+         x="575.5"
+         y="501.5"
+         id="text361">- saveRecurringEntries(): void</text>
+      <text
+         x="575.5"
+         y="515.5"
+         id="text363">- loadRecurringEntries(): void</text>
+    </g>
+    <path
+       d="M 62.57 50.14 L 62.57 82.71 L 30 82.71 L 30 113.05"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       stroke-dasharray="3 3"
+       pointer-events="none"
+       id="path367" />
+    <path
+       d="M 26.5 107.17 L 30 114.17 L 33.5 107.17"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path369" />
+    <path
+       d="M 10 0 L 50 0 L 50 14 L 115 14 L 115 50 L 10 50 L 10 14 Z"
+       fill="#ffffff"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path371" />
+    <path
+       d="M 10 14 L 50 14"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path373" />
+    <g
+       transform="translate(22.5,21.5)"
+       id="g379">
+      <switch
+         id="switch377">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="79"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; font-weight: bold; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;">user interface</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="40"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           font-weight="bold"
+           id="text375">user interface</text>
+      </switch>
+    </g>
+    <g
+       fill="#000000"
+       font-family="Helvetica"
+       font-weight="bold"
+       text-anchor="middle"
+       font-size="12px"
+       id="g383">
+      <text
+         x="79.5"
+         y="151.5"
+         id="text381">Logic and data layer</text>
+    </g>
+    <path
+       d="M 699.14 807.29 L 661.43 807.29 L 661.43 703.86 L 622.57 703.86"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path385" />
+    <g
+       transform="translate(688.5,790.5)"
+       id="g391">
+      <switch
+         id="switch389">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="5"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">*</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="3"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text387">*</text>
+      </switch>
+    </g>
+    <g
+       transform="translate(628.5,686.5)"
+       id="g397">
+      <switch
+         id="switch395">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="7"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">1</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="4"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text393">1</text>
+      </switch>
+    </g>
+    <path
+       d="M 700.29 819.86 L 661.43 819.86 L 661.43 855.29 L 622.57 855.29"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path399" />
+    <g
+       transform="translate(625.5,857.5)"
+       id="g405">
+      <switch
+         id="switch403">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="7"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">1</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="4"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text401">1</text>
+      </switch>
+    </g>
+    <g
+       transform="translate(688.5,825.5)"
+       id="g411">
+      <switch
+         id="switch409">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="5"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">*</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="3"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text407">*</text>
+      </switch>
+    </g>
+    <path
+       d="M 412.29 703.86 L 386 703.86 L 386 605"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path413" />
+    <g
+       transform="translate(402.5,709.5)"
+       id="g419">
+      <switch
+         id="switch417">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="5"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">*</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="3"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text415">*</text>
+      </switch>
+    </g>
+    <g
+       transform="translate(371.5,606.5)"
+       id="g425">
+      <switch
+         id="switch423">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="7"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: right;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">1</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="4"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text421">1</text>
+      </switch>
+    </g>
+    <path
+       d="M 412.29 855.29 L 374 855.29 L 374 789 L 335.14 789"
+       fill="none"
+       stroke="#000000"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path427" />
+    <g
+       transform="translate(342.5,794.5)"
+       id="g433">
+      <switch
+         id="switch431">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="7"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">1</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="4"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text429">1</text>
+      </switch>
+    </g>
+    <g
+       transform="translate(398.5,860.5)"
+       id="g439">
+      <switch
+         id="switch437">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="5"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">*</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="3"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text435">*</text>
+      </switch>
+    </g>
+    <path
+       d="m 700.23162,580.81302 h -61.03446 l -0.13974,-85.06428"
+       stroke-miterlimit="10"
+       pointer-events="none"
+       id="path441"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#000000;stroke-width:1.23131442;stroke-miterlimit:10" />
+    <g
+       transform="translate(624.71439,499.11857)"
+       id="g447">
+      <switch
+         id="switch445">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="7"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: right;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">1</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="4"
+           y="12"
+           font-size="12px"
+           id="text443"
+           style="font-size:12px;font-family:Helvetica;text-anchor:middle;fill:#000000">1</text>
+      </switch>
+    </g>
+    <g
+       transform="translate(690.5,585.5)"
+       id="g453">
+      <switch
+         id="switch451">
+        <foreignObject
+           style="overflow:visible;"
+           pointer-events="all"
+           width="5"
+           height="12"
+           requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+          <xhtml:div
+             style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; vertical-align: top; white-space: nowrap; text-align: center;">
+            <xhtml:div
+               style="display:inline-block;text-align:inherit;text-decoration:inherit;background-color:#ffffff;">*</xhtml:div>
+          </xhtml:div>
+        </foreignObject>
+        <text
+           x="3"
+           y="12"
+           fill="#000000"
+           text-anchor="middle"
+           font-size="12px"
+           font-family="Helvetica"
+           id="text449">*</text>
+      </switch>
+    </g>
+  </g>
+</svg>
